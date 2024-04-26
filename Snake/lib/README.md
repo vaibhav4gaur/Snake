@@ -41,6 +41,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 
 
+![Screenshot 2024-04-26 at 6 10 08 PM](https://github.com/vaibhav4gaur/Snake/assets/110227490/c0ca3816-8da1-415c-95db-ccf469cf8fcf)
 
 
 
